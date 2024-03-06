@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Infrastructure\\Arepas.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Application\\Arepas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Application\\Arepas.Application.csproj",
+        "projectName": "Arepas.Application",
+        "projectPath": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Application\\Arepas.Application.csproj",
+        "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Domain\\Arepas.Domain.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Domain\\Arepas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Domain\\Arepas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Domain\\Arepas.Domain.csproj",
+        "projectName": "Arepas.Domain",
+        "projectPath": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Domain\\Arepas.Domain.csproj",
+        "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Infrastructure\\Arepas.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Infrastructure\\Arepas.Infrastructure.csproj",
+        "projectName": "Arepas.Infrastructure",
+        "projectPath": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Infrastructure\\Arepas.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Application\\Arepas.Application.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\ServicesDevelopment\\Proyecto\\ArepasApp\\Arepas.Application\\Arepas.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

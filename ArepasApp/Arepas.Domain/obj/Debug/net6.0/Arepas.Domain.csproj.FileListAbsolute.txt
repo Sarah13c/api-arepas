@@ -1,0 +1,12 @@
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\bin\Debug\net6.0\Arepas.Domain.deps.json
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\bin\Debug\net6.0\Arepas.Domain.dll
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\bin\Debug\net6.0\Arepas.Domain.pdb
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\Arepas.Domain.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\Arepas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\Arepas.Domain.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\Arepas.Domain.AssemblyInfo.cs
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\Arepas.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\Arepas.Domain.dll
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\refint\Arepas.Domain.dll
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\Arepas.Domain.pdb
+D:\Documents\GitHub\ServicesDevelopment\Proyecto\ArepasApp\Arepas.Domain\obj\Debug\net6.0\ref\Arepas.Domain.dll
